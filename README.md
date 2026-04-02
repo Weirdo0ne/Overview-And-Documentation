@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Learning Portfolio
+# 🛡️ Documenting and Learning
 
 <!-- Add your TryHackMe profile screenshot below -->
 
