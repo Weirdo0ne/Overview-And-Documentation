@@ -102,11 +102,11 @@ D --> E[🔁 Revise & Improve]
 ## 📂 <a name="structure"></a> Repository Structure
 
 ```bash
-📦 Cybersecurity-Docs
- ┣ 📂 Notes
- ┣ 📂 Labs
- ┣ 📂 Cheat-Sheets
- ┣ 📂 Tools
+📦 Overview-And-Documentation
+ ┣ 📂 Topic-1
+ ┣ 📂 Topic-2
+ ┣ 📂 Topic-3
+ ┣ 📂 Topic-n
  ┗ README.md
 ```
 
